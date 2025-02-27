@@ -22,3 +22,8 @@ This comprehensive system design aims to transition KADA
 Koperasi from a manual to a digital system, significantly improving operational
 efficiency, streamlining procedures, and enhancing service delivery for members and
 stakeholders
+
+**Wireframe link** : https://www.figma.com/design/SXgqJK21sainTdU1xi4FLt/KADAKoperasi?node-id=17-2&p=f
+**Project Management using Github** : https://github.com/users/muhdHabibullah/projects/9/views/1
+
+
